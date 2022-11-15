@@ -30,4 +30,3 @@ def names(First_name:bool=False, last_name:bool=False, full_name_:bool=False):
     return full_names
 if __name__=="__main__":
     storage.run()
-    
